@@ -2,7 +2,7 @@
 
 **`Developer/Filmmaker/Creator`**
 
-<b>Hello to my Profile! <a href="https://discord.com/users/775425961197043792"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="Discord"></a></b>
+<b>Welcome to my Profile! <a href="https://discord.com/users/775425961197043792"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="Discord"></a></b>
 <br><br>
 Fivem Server [FazeRP](https://discord.gg/fazerp)  
 Discord Bot [RifeBOT](https://discord.gg/rifebot)
@@ -28,7 +28,6 @@ Discord Bot [RifeBOT](https://discord.gg/rifebot)
    <img alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
    <img alt="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg" />
    <img alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-   <img alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
    <img alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
    <img alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
    <img alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -49,7 +48,7 @@ Discord Bot [RifeBOT](https://discord.gg/rifebot)
       <img alt="mOnteySZEF's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mOnteySZEF&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" height="172px"/>
    </a>
    <a href="https://github.com/mOnteySZEF">
-      <img alt="mOnteySZEF's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mOnteySZEF&langs_count=6&layout=compact&theme=react&hide_border=true&border_color=61dafb&hide=Jupyter%20Notebook,html,css,js,ts,lua,php,shell" height="172px"/>
+      <img alt="mOnteySZEF's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mOnteySZEF&langs_count=6&layout=compact&theme=react&hide_border=true&border_color=61dafb" height="172px"/>
    </a>
 </p>
 <br>
@@ -64,9 +63,9 @@ Discord Bot [RifeBOT](https://discord.gg/rifebot)
 
    ---
 
-   🔹▬▬▬▬▬🖥 SPRZĘT 🖥▬▬▬▬▬🔹<br>
+   🔹▬▬▬▬▬🖥 EQUIPMENT 🖥▬▬▬▬▬🔹<br>
    ► Processor - AMD Ryzen 7 5800X3D<br>
-   ► Graphics card - GeForce RTX 4070TI<br>
+   ► Graphics - GeForce RTX 4070TI<br>
    ► RAM - 32GB<br>
    ► Keyboard - Steelseries Apex Pro TKL<br>
    ► Mouse - Steelseries Rival 5<br>
