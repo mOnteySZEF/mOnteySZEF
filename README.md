@@ -3,7 +3,7 @@
 **`Developer/Filmmaker/Creator`**
 
 <b>Welcome to my Profile! <a href="https://discord.com/users/775425961197043792"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="Discord"></a></b>
-<br><br>
+<br><p> <img src="https://komarev.com/ghpvc/?username=mOnteySZEF&label=Profile%20views&color=0e75b6&style=flat" alt="mOnteySZEF" /> </p><br>
 Fivem Server [FazeRP](https://discord.gg/fazerp)  
 Discord Bot [RifeBOT](https://discord.gg/rifebot)
 
@@ -11,7 +11,7 @@ Discord Bot [RifeBOT](https://discord.gg/rifebot)
 <p align="center">
    <a href="https://www.youtube.com/c/mOntey?sub_confirmation=1">
       <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCAKl5DjM6m2-9Znv7Fwvc_g?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-   <a href="https://www.instagram.com/montey.szef/">
+   <a href="https://www.instagram.com/monteyszef/">
       <img alt="Instagram" title="Follow me on Instagram" src="https://img.shields.io/badge/Follow_Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
    <a href="https://github.com/mOnteySZEF?tab=followers">
       <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mOnteySZEF?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
@@ -36,6 +36,8 @@ Discord Bot [RifeBOT](https://discord.gg/rifebot)
    <img alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
    <img alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
    <img alt="Discord.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" />
+   <img alt="Electron.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
+   <img alt="Vue.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 </p>
 <br>
 
@@ -48,7 +50,7 @@ Discord Bot [RifeBOT](https://discord.gg/rifebot)
       <img alt="mOnteySZEF's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mOnteySZEF&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" height="172px"/>
    </a>
    <a href="https://github.com/mOnteySZEF">
-      <img alt="mOnteySZEF's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mOnteySZEF&langs_count=6&layout=compact&theme=react&hide_border=true&border_color=61dafb" height="172px"/>
+      <img alt="mOnteySZEF's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mOnteySZEF&langs_count=6&layout=compact&theme=react&hide=HTML&hide_border=true&border_color=61dafb" height="172px"/>
    </a>
 </p>
 <br>
